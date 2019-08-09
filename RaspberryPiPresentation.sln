@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{8172E37B-1FEE-4C12-9985-0DD265D5905D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpioExample", "GpioExample\GpioExample.csproj", "{7AB424FD-6D50-4B69-B5C5-3612D73A374A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8172E37B-1FEE-4C12-9985-0DD265D5905D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8172E37B-1FEE-4C12-9985-0DD265D5905D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8172E37B-1FEE-4C12-9985-0DD265D5905D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8172E37B-1FEE-4C12-9985-0DD265D5905D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB424FD-6D50-4B69-B5C5-3612D73A374A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB424FD-6D50-4B69-B5C5-3612D73A374A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB424FD-6D50-4B69-B5C5-3612D73A374A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB424FD-6D50-4B69-B5C5-3612D73A374A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3F685D-3198-4B28-9CDB-28269A996D7F}
+	EndGlobalSection
+EndGlobal
